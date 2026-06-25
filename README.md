@@ -62,8 +62,13 @@ Built a To-Do application with:
 
 <img width="652" height="674" alt="image" src="https://github.com/user-attachments/assets/b060ba96-f4f6-4b19-aeaa-ba56f805617e" />
 
+
 #### Manager login
 
 <img width="654" height="674" alt="image" src="https://github.com/user-attachments/assets/b11b2cc9-ef7a-4236-8afc-92dc4728888d" />
 
 #### Concepts Learnt:
+- Implemented secure authentication and authorization using Firebase Authentication
+- Designed a seamless onboarding flow where new users are automatically registered during login if they do not already exist
+- Built role-based access control to manage permissions for employees and administrators
+- Developed functionality for employees to submit leave requests with relevant details including date range and reason
